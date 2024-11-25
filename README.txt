@@ -1,4 +1,4 @@
-Benvenuti nel progetto di Machine Learning sviluppato da me, Davide Senette, 
+Benvenuti nel progetto di Machine Learning sviluppato da me, Theo Floris e altri 3 colleghi del mio Corso di Studi, 
 come lavoro finale per l'esame di Machine Learning presso l'Università di Cagliari, 
 Corso di Laurea in Informatica Applicata e Data Analytics(IADA).
 
